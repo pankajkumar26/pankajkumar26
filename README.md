@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me 
+Results-oriented Software Developer and Passionate data analytics student with expertise in web development and 
+machine learning. Proficient in various programming languages, databases, and analysis tools. Proven problem-solver 
+with strong communication and teamwork.
+
+
